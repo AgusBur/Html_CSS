@@ -1,0 +1,7 @@
+.boton ::after {
+    content: "Pasa por encima";
+}
+
+.boton ::after {
+    content: "¡Hecho!";
+}
